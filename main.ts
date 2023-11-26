@@ -6,5 +6,6 @@ interface Window {
     MSStream?: unknown;
     abc?: unknown;
     cds: unknown
+    staging: unknown
 }
 
