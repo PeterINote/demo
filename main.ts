@@ -9,5 +9,6 @@ interface Window {
     staging: unknown
     feature_a: unknown
     feature_d: unknown
+    feature_d_1: unknown
 }
 
