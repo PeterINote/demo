@@ -4,5 +4,6 @@ interface Document {
 
 interface Window {
     MSStream?: unknown;
+    abc?: unknown;
 }
 
