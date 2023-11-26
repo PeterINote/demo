@@ -14,5 +14,6 @@ interface Window {
     feature_d_3: unknown
     feature_d_4: unknown
     feature_d_5: unknown
+    feature_d_7: unknown
 }
 
