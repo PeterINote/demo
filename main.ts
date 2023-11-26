@@ -8,5 +8,6 @@ interface Window {
     cds: unknown
     staging: unknown
     feature_a: unknown
+    feature_d: unknown
 }
 
